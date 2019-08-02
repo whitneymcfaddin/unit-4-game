@@ -35,8 +35,6 @@ var images = ["./assets/images/blue.png", "./assets/images/green.png", "./assets
 		resetCrystals ();
 	}
 
-// Running Code
-
 	// Inital Page Set Up
 	randomTargetNumber();
 	resetHTML ();

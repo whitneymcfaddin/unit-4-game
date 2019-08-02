@@ -1,0 +1,30 @@
+html {
+	box-sizing: border-box;
+}
+
+body { 
+	min-height: 100vh;
+    background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+}
+
+h3 {
+	margin: 20px 0px 10px 0px;
+	letter-spacing: 3px;
+}
+
+.header {
+	padding: 70px 0px 0px 0px;
+	color: grey;
+}
+
+h1, h3, #magicNumber, #totalScore, #wins, #losses, .score {
+	color: #5073aa;
+}
+
+h1 {
+	color: black;
+	margin: 55px 0px 75px 0px;
+	letter-spacing: 12px;
+}
